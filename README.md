@@ -1,6 +1,6 @@
 # Hi, I'm Aiyman Mohammed
 
-### Business Analyst · Analytics Professional · Cork, Ireland
+### Business Analyst · QA/Performance Engineer · Cork, Ireland
 
 I turn data and business complexity into decisions that organisations can act on.
 MSc Business Analytics graduate from University College Cork, with 2+ years of enterprise experience bridging technical teams and business stakeholders.
